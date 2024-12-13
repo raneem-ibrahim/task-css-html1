@@ -1,0 +1,243 @@
+.p1{
+    color:blueviolet;
+}
+.p2{
+    color:red;
+}
+.p3{
+    color: blue;
+}
+.p4{
+    color:green;
+}
+/*..................task2................*/
+
+#ma{
+    font-size: 18px;
+}
+#mb{
+    font-size: 30px;
+    color: gray;
+}
+#mc{
+    font-size: 1.5em;
+font-family: 'Franklin Gothic Medium', ;
+color: blue;}
+#md{
+    font-size: 25px;
+    color: purple;
+    font-family: cursive;
+}
+/*...................task3.................*/
+
+.qw{
+    text-decoration: underline;
+    text-align: center;
+}
+.er{
+    text-transform: capitalize;
+}
+.xc{
+    text-transform:uppercase;
+}
+.df{
+    text-decoration: overline ;
+    text-decoration: underline;
+    text-align: center;
+}
+.rr{
+    text-transform: lowercase;
+}
+.ff{
+    text-decoration: line-through;
+}
+/*..............................task4........................*/
+#img {
+    background-color: beige;
+}
+#aa {
+    
+    height: 100px;
+text-align: center;
+background-color:darkslategray;
+-webkit-text-fill-color: aliceblue;
+text-align: center;
+padding-top: 5%;
+}
+.qq{
+    font-size:larger;
+}
+.ww{
+    font-size:small;
+}
+#tt{
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: red;
+    
+}
+#hh{
+    background-color: darkslategrey;
+    text-align: center;
+    height: 100px;
+    padding-top: 3%;
+}
+#xx {
+    -webkit-text-fill-color: aliceblue;
+}
+#zz{
+    -webkit-text-fill-color: red;
+    text-transform: uppercase;
+}
+/*.........................task5...................................*/
+#oo{
+    text-align: center;
+}
+.pp{
+    text-transform: uppercase;
+}
+.ee{
+    text-decoration: underline;
+    -webkit-text-fill-color: red;
+    text-transform: capitalize;
+}
+.mm{
+    -webkit-text-fill-color: gray;
+}
+.cc{
+    -webkit-text-fill-color: red;
+}
+#body{
+    background-image:url(pink-7761356_640.webp)  ;
+    background-repeat: no-repeat;
+    background-size:  100%;
+  
+   
+  
+
+   
+}
+/*.................................task6.................*/
+#you{
+    height: 700px;
+    background-image: url(images.png);
+    background-repeat: repeat-y;
+    height: 700px;
+    
+
+}
+.kk{
+    font-size: small  ;
+}
+/*.....................................task7...................................*/
+#img22{
+    background-image: url(istockphoto-1409540610-612x612.jpg);
+}
+.tol{
+    color: red;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size:xx-large;
+    background-color:aliceblue;
+}
+.rel{
+    background-color:aliceblue;
+    
+    
+}
+.tel{
+    color: red;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size:xx-large;
+    background-color:aliceblue;
+}
+.rol{
+    background-color:aliceblue;
+    
+    
+}
+/*..........................task8...........................*/
+.pol{
+    text-decoration: underline;
+    color: red;
+}
+.klj{
+    background-image: url(images\ \(1\).jpg);
+}
+#bn{
+    text-decoration:underline;
+    color: red;
+}
+#cv{
+    background-image: url(images\ \(1\).jpg);
+}
+/*.........................task9.....................*/
+
+.bac{
+    
+    background: linear-gradient(to right , #971f97 ,#a53ea5,#d28a04);
+}
+.bac1{
+    text-align: center;
+    padding: 300px;
+}
+
+/*.........................task10.....................*/
+#st1{
+    background-color: dodgerblue;
+
+}
+#st2{
+    background-color:deeppink;
+}
+#st3{
+    background-color: orange;
+}
+/*..............................task11.........................*/
+
+.bor{
+    border-style:inset;
+    border-color: #d28a04;
+    width: 200px;
+ 
+   
+    background-color: rgb(246, 221, 188);
+    padding: 5px 5px 5px 05px ;
+}
+.col{
+    background-color:indianred;
+    color: aliceblue;
+}
+.colr{
+    background-color: #f7e308;
+    width: 200px;
+}
+.we{
+    width: 190px;
+}
+/*...............................task12......................*/
+#th{
+    background-color: #f4ec91;
+    color: red;
+}
+#blu{
+    background-color: rgb(115, 194, 243);
+}
+/*...........................task13......................*/
+#dov{
+    background-image: url(purple-white-triangle-geometric-pattern-600nw-2476742077.webp);
+    background-repeat: repeat-y;
+    height: 700px;
+}
+    #dovr{
+    background-image: url(images\ \(2\).jpg);
+    background-repeat: repeat-x;
+}
+/*.............................task14.........................*/
+.abc{
+    background-color: #f4ec91;
+}
+#h1rr{
+    color: rgba(104, 3, 3, 0.777);
+}
